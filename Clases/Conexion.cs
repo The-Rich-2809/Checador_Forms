@@ -13,7 +13,7 @@ namespace Checador_Forms.Clases
         {
             string cadenaConexion = "";
             //cadenaConexion = "datasource=192.168.100.10; username=checador; password=300920; database=checador";
-            cadenaConexion = "datasource=db4free.net; username=dbintervalo; password=Intervalo2024; database=dbchecador";
+            cadenaConexion = "Server=MYSQL1001.site4now.net; Database=db_ab6528_checado; Uid=ab6528_checado; Pwd=Intervalo2024;";
 
             try
             {

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|c:\\users\\ricar\\documents\\github\\checador_forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|solutionrelative:clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:04:28.785Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Clases\\Conexion.cs",
+              "RelativeDocumentMoniker": "Clases\\Conexion.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Clases\\Conexion.cs",
+              "RelativeToolTip": "Clases\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:59:13.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
