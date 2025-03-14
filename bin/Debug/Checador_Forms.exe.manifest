@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Checador_Forms.exe" size="431584">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Checador_Forms.exe" size="432096">
       <assemblyIdentity name="Checador_Forms" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VTzsRHUfUl0wuwNRI0Z2GV3g6DbdlWsfkqVKR6xAOaU=</dsig:DigestValue>
+        <dsig:DigestValue>dNHs9l2tSOe6pw3d6cAqv8MOpaSywFTLQKtpzNv3lXw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

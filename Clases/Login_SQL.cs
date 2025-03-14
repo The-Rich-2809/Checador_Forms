@@ -34,7 +34,9 @@ namespace Checador_Forms.Clases
                         Datos.IdSite = reader.GetInt32(0);
                         Datos.NombreSite = reader.GetString(1);
                     }
-                        
+
+                    conexionBD.Close();
+
                     return true;
                 }
             }
@@ -42,10 +44,7 @@ namespace Checador_Forms.Clases
             {
                 MessageBox.Show("Error al buscar " + ex.Message);
             }
-            finally
-            {
-                conexionBD.Close();
-            }
+
             return false;
 
             

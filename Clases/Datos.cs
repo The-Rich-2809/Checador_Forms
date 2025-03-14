@@ -10,6 +10,8 @@ namespace Checador_Forms.Clases
 {
     public static class Datos
     {
+        public static DateTime HoraEntrada { get; set; }
+        public static DateTime HoraSalida { get; set; }
         public static string NombreSite {  get; set; }
         public static int IdSite { get; set; }
         public static string NombreEmpleado { get; set; }

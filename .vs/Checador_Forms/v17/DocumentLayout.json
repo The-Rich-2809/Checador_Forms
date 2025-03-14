@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|c:\\users\\ricar\\documents\\github\\checador_forms\\clases\\empleados_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|solutionrelative:clases\\empleados_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|c:\\users\\ricar\\documents\\github\\checador_forms\\registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|solutionrelative:registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|c:\\users\\ricar\\documents\\github\\checador_forms\\clases\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|solutionrelative:clases\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|c:\\users\\ricar\\documents\\github\\checador_forms\\clases\\login_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|solutionrelative:clases\\login_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|c:\\users\\ricar\\documents\\github\\checador_forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AB8FF51F-F391-41F8-9479-6B551F9B9D51}|Checador_Forms.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -23,6 +39,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Empleados_SQL.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Clases\\Empleados_SQL.cs",
+              "RelativeDocumentMoniker": "Clases\\Empleados_SQL.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Clases\\Empleados_SQL.cs",
+              "RelativeToolTip": "Clases\\Empleados_SQL.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwG0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:41:58.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registros.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Registros.cs",
+              "RelativeDocumentMoniker": "Registros.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Registros.cs",
+              "RelativeToolTip": "Registros.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:41:25.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Clases\\Datos.cs",
+              "RelativeDocumentMoniker": "Clases\\Datos.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Clases\\Datos.cs",
+              "RelativeToolTip": "Clases\\Datos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:39:45.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login_SQL.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Clases\\Login_SQL.cs",
+              "RelativeDocumentMoniker": "Clases\\Login_SQL.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Clases\\Login_SQL.cs",
+              "RelativeToolTip": "Clases\\Login_SQL.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:39:12.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Login.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
@@ -34,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Checador_Forms\\Clases\\Conexion.cs",
               "RelativeDocumentMoniker": "Clases\\Conexion.cs",

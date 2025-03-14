@@ -89,7 +89,7 @@ namespace Checador_Forms.Clases
         {
             DataTable dt = new DataTable();
 
-            string sql = "Insert Into empleados (Nombre, 1erApellido, 2doApellido, Huella, idSite, TipoEmpleado, idEncargado, NombreEncargado, Hash) values (@Nombre,@1erApellido, @2doApellido,@Huella, @idSite,@TipoEmpleado ,@idEncargado ,@NombreEncargado, @Hash)";
+            string sql = "Insert Into empleados (Nombre, 1erApellido, 2doApellido, Huella, idSite, TipoEmpleado, idEncargado, NombreEncargado, Hash) values (@Nombre,@1erApellido, @2doApellido,@Huella, @idSite,@TipoEmpleado ,@idEncargado ,@NombreEncargado, @Hash. @HoraEntrada, @HoraEntrada, @HoraSalida)";
             MySqlConnection conexionBD = Conexion.conexion();
             conexionBD.Open();
 
@@ -105,6 +105,8 @@ namespace Checador_Forms.Clases
                 comando.Parameters.AddWithValue("idEncargado", Datos.IdEncargado);
                 comando.Parameters.AddWithValue("NombreEncargado", Datos.Encargado);
                 comando.Parameters.AddWithValue("Hash", Datos.Hash);
+                comando.Parameters.AddWithValue("HoraEntrada", Datos.HoraEntrada);
+                comando.Parameters.AddWithValue("HoraSalida", Datos.HoraSalida);
                 comando.ExecuteNonQuery();
                 conexionBD.Close();
                 return true;
