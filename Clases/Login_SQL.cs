@@ -33,6 +33,8 @@ namespace Checador_Forms.Clases
                     {
                         Datos.IdSite = reader.GetInt32(0);
                         Datos.NombreSite = reader.GetString(1);
+                        Datos.HoraEntrada = reader.GetTimeSpan(5);
+                        Datos.HoraSalida = reader.GetTimeSpan(6);
                     }
 
                     conexionBD.Close();

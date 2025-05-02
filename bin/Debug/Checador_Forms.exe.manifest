@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dNHs9l2tSOe6pw3d6cAqv8MOpaSywFTLQKtpzNv3lXw=</dsig:DigestValue>
+        <dsig:DigestValue>Rw9T72PyVL7JIAQMF03HTJWJdww5t+4fH/S7CSUG2lM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -370,6 +370,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>FyTPvLEarHPqdtdvsujjeT2A7astNpbMXO05MyY94gc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Clases\Checador.sql" size="6029">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>vAQWPb7xzg1XPWWPAMOj0farX+xpiOdOdFsxEvRoXN8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\correct.wav" size="50766">

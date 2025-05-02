@@ -89,7 +89,7 @@ namespace Checador_Forms.Clases
         {
             DataTable dt = new DataTable();
 
-            string sql = "Insert Into empleados (Nombre, 1erApellido, 2doApellido, Huella, idSite, TipoEmpleado, idEncargado, NombreEncargado, Hash) values (@Nombre,@1erApellido, @2doApellido,@Huella, @idSite,@TipoEmpleado ,@idEncargado ,@NombreEncargado, @Hash. @HoraEntrada, @HoraEntrada, @HoraSalida)";
+            string sql = "Insert Into empleados (Nombre, 1erApellido, 2doApellido, Huella, idSite, TipoEmpleado, idEncargado, NombreEncargado, Hash, HoraEntrada, HoraSalida) values (@Nombre, @1erApellido, @2doApellido, @Huella, @idSite, @TipoEmpleado ,@idEncargado ,@NombreEncargado, @Hash, @HoraEntrada, @HoraSalida)";
             MySqlConnection conexionBD = Conexion.conexion();
             conexionBD.Open();
 

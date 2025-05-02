@@ -253,6 +253,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Checador.ico" />
+    <Content Include="Clases\Checador.sql" />
     <Content Include="Resources\correct.wav" />
     <Content Include="Resources\incorrect.wav" />
   </ItemGroup>
